@@ -1,4 +1,4 @@
-🤖 AI Code Reviewer
+# 🤖 AI Code Reviewer
 AI Code Reviewer is a Streamlit-based application that uses Google's Generative AI API to review Python code. It identifies potential bugs, suggests fixes, and provides insights for code optimization.
 
 🚀 Features
@@ -22,7 +22,7 @@ Ensure your API key is active and correctly configured in the code.
 📝 Installation and Setup
 1. Clone the Repository
 bash
-Copy code
+Copy code: https://github.com/KaushikSatpute/Ai_Code_Reviewer/blob/main/aicode.py
 
 2. Install Dependencies
 Install the required Python packages using pip:
